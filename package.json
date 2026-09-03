@@ -1,0 +1,16 @@
+{
+  "name": "n7-powerbridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Manifest V3 extension for transferring N7 World powers into Roll20 character sheets.",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "jsdom": "^28.1.0"
+  }
+}

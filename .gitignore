@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
